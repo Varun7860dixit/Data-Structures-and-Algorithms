@@ -1,6 +1,6 @@
 # Data-Structures-and-Algorithms
 This repository contains well-structured implementations of fundamental Data Structures and Algorithms in multiple programming languages. It serves as a valuable resource for beginners, competitive programmers, and software developers preparing for coding interviews.
-
+<br>
 📂 Contents
 ✅ Data Structures: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps, Hash Tables, and more.
 ✅ Algorithms: Sorting, Searching, Recursion, Dynamic Programming, Graph Algorithms (BFS, DFS, Dijkstra’s), and more.
